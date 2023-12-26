@@ -48,9 +48,12 @@
 
 Console.Write("Введите чсло N: ");
 int N = Convert.ToInt32(Console.ReadLine());
-int negativeN = -N;
-while (negativeN <=N);
-Console.Write(negativeN);
-Console.Write(' ');
+int negativeN = N * -1;
+while (negativeN <= N)
+{
+    Console.Write(negativeN + " ");
+    negativeN++;
+}
+
 
 

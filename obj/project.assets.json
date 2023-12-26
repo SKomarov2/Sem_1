@@ -8,7 +8,7 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\vivobook\\.nuget\\packages\\": {}
+    "C:\\Users\\Serega\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
@@ -16,11 +16,11 @@
       "projectUniqueName": "D:\\Ucheba\\LessonSem\\Sem_1\\Sem_1.csproj",
       "projectName": "Sem_1",
       "projectPath": "D:\\Ucheba\\LessonSem\\Sem_1\\Sem_1.csproj",
-      "packagesPath": "C:\\Users\\vivobook\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\Serega\\.nuget\\packages\\",
       "outputPath": "D:\\Ucheba\\LessonSem\\Sem_1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\vivobook\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Serega\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
