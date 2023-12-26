@@ -22,18 +22,18 @@
 // Console.WriteLine(input + 1000);
 
 
-Console.Write("Введите число: ");
-int firstNumber = Convert.ToInt32(Console.ReadLine());
-Console.Write("Введите число: ");
-int secondNumber = Convert.ToInt32(Console.ReadLine());
+// Console.Write("Введите число: ");
+// int firstNumber = Convert.ToInt32(Console.ReadLine());
+// Console.Write("Введите число: ");
+// int secondNumber = Convert.ToInt32(Console.ReadLine());
 
-if(firstNumber == secondNumber*secondNumber)
-{
-    Console.WriteLine("Да, " + firstNumber  + " является кватратом от числа " + secondNumber);
+// if(firstNumber == secondNumber*secondNumber)
+// {
+//     Console.WriteLine("Да, " + firstNumber  + " является кватратом от числа " + secondNumber);
 
-}
-else
-{
-    Console.WriteLine("НET, " + firstNumber + " не является кватратом от числа " + secondNumber);
+// }
+// else
+// {
+//     Console.WriteLine("НET, " + firstNumber + " не является кватратом от числа " + secondNumber);
 
-}
+// }
